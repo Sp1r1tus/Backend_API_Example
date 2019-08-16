@@ -1,0 +1,23 @@
+[
+  {
+    "PERSONID": 1,
+    "NAME": "Person A",
+    "ADRESSE": "Adresse A",
+    "PLZ": "1111",
+    "ORT": "Ort A"
+  },
+  {
+    "PERSONID": 2,
+    "NAME": "Person B",
+    "ADRESSE": "Adresse B",
+    "PLZ": "2222",
+    "ORT": "Ort B"
+  },
+  {
+    "PERSONID": 3,
+    "NAME": "Person C",
+    "ADRESSE": "Adresse C",
+    "PLZ": "3333",
+    "ORT": "Ort C"
+  }
+]
